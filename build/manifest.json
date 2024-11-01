@@ -1,0 +1,1005 @@
+{
+  "__initCloneObject-Cw8oFim1.min.js": {
+    "file": "_initCloneObject-Cw8oFim1.min.js",
+    "name": "_initCloneObject",
+    "imports": [
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "__plugin-vue_export-helper-C8Ev41l5.min.js": {
+    "file": "_plugin-vue_export-helper-C8Ev41l5.min.js",
+    "name": "_plugin-vue_export-helper",
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js"
+    ]
+  },
+  "_build-BhUYuKC2.js": {
+    "file": "build-BhUYuKC2.js",
+    "name": "build",
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-MUO2ju4c.min.js",
+      "_module-D_6o7GTg.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_didyoumean-DsuBqNMC.min.js"
+    ],
+    "dynamicImports": [
+      "_index-CUWaTPpr.min.js"
+    ]
+  },
+  "_build-Bp4LfGl5.js": {
+    "file": "build-Bp4LfGl5.js",
+    "name": "build",
+    "imports": [
+      "_index-CKpsDP-T.min.js",
+      "_module-D_6o7GTg.js",
+      "_index-MUO2ju4c.min.js"
+    ]
+  },
+  "_chevron-right-NRNjl7DH.min.js": {
+    "file": "chevron-right-NRNjl7DH.min.js",
+    "name": "chevron-right",
+    "imports": [
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js"
+    ]
+  },
+  "_debounce-ymZcD929.min.js": {
+    "file": "debounce-ymZcD929.min.js",
+    "name": "debounce",
+    "imports": [
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "_didyoumean-DsuBqNMC.min.js": {
+    "file": "didyoumean-DsuBqNMC.min.js",
+    "name": "didyoumean"
+  },
+  "_fuse-CU2r43ac.min.js": {
+    "file": "fuse-CU2r43ac.min.js",
+    "name": "fuse"
+  },
+  "_generateRules-tbJnU7hT.min.js": {
+    "file": "generateRules-tbJnU7hT.min.js",
+    "name": "generateRules",
+    "imports": [
+      "_resolve-config-xoBbP6QF.js"
+    ]
+  },
+  "_highlight-in-textarea-CLY2VO3M.js": {
+    "file": "highlight-in-textarea-CLY2VO3M.js",
+    "name": "highlight-in-textarea",
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ]
+  },
+  "_index-BJHYLQGk.min.js": {
+    "file": "index-BJHYLQGk.min.js",
+    "name": "index",
+    "imports": [
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js"
+    ]
+  },
+  "_index-CKpsDP-T.min.js": {
+    "file": "index-CKpsDP-T.min.js",
+    "name": "index"
+  },
+  "_index-CUWaTPpr.min.js": {
+    "file": "index-CUWaTPpr.min.js",
+    "name": "index",
+    "isDynamicEntry": true,
+    "imports": [
+      "_module-D_6o7GTg.js"
+    ]
+  },
+  "_index-MUO2ju4c.min.js": {
+    "file": "index-MUO2ju4c.min.js",
+    "name": "index",
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ],
+    "dynamicImports": [
+      "_module-D_6o7GTg.js"
+    ],
+    "assets": [
+      "assets/lightningcss_node-DuhDuG6P.wasm"
+    ]
+  },
+  "_index.browser-CJrp5d7n.min.js": {
+    "file": "index.browser-CJrp5d7n.min.js",
+    "name": "index.browser"
+  },
+  "_intellisense-D4O0Eoz-.js": {
+    "file": "intellisense-D4O0Eoz-.js",
+    "name": "intellisense",
+    "imports": [
+      "_index-CKpsDP-T.min.js",
+      "_module-D_6o7GTg.js"
+    ]
+  },
+  "_isObject-CRxghtyK.min.js": {
+    "file": "isObject-CRxghtyK.min.js",
+    "name": "isObject"
+  },
+  "_logger-BTW-zIW3.js": {
+    "file": "logger-BTW-zIW3.js",
+    "name": "logger"
+  },
+  "_module-D_6o7GTg.js": {
+    "file": "module-D_6o7GTg.js",
+    "name": "module",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ]
+  },
+  "_monaco-editor-!~{00j}~.min.js": {
+    "file": "assets/monaco-editor-D4zjdeIP.css",
+    "src": "_monaco-editor-!~{00j}~.min.js"
+  },
+  "_monaco-editor-00CT0F_7.min.js": {
+    "file": "monaco-editor-00CT0F_7.min.js",
+    "name": "monaco-editor",
+    "dynamicImports": [
+      "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/css/css.js",
+      "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/css/cssMode.js",
+      "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.js",
+      "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/typescript/tsMode.js"
+    ],
+    "css": [
+      "assets/monaco-editor-D4zjdeIP.css"
+    ],
+    "assets": [
+      "assets/codicon-DCmgc-ay.ttf"
+    ]
+  },
+  "_oxide_parser_wasm-2P4Lcsn7.min.js": {
+    "file": "oxide_parser_wasm-2P4Lcsn7.min.js",
+    "name": "oxide_parser_wasm",
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ],
+    "assets": [
+      "assets/oxide_parser_wasm_bg-C5ZsR71t.wasm"
+    ]
+  },
+  "_resolve-config-xoBbP6QF.js": {
+    "file": "resolve-config-xoBbP6QF.js",
+    "name": "resolve-config",
+    "imports": [
+      "_module-D_6o7GTg.js"
+    ]
+  },
+  "_runtime-core.esm-bundler-BgTOpYpR.min.js": {
+    "file": "runtime-core.esm-bundler-BgTOpYpR.min.js",
+    "name": "runtime-core.esm-bundler",
+    "imports": [
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "_set-B6rMqs6z.min.js": {
+    "file": "set-B6rMqs6z.min.js",
+    "name": "set",
+    "imports": [
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "_setupContextUtils-DUps9YUQ.min.js": {
+    "file": "setupContextUtils-DUps9YUQ.min.js",
+    "name": "setupContextUtils",
+    "imports": [
+      "_resolve-config-xoBbP6QF.js"
+    ]
+  },
+  "_virtual-D4KiWvGj.js": {
+    "file": "virtual-D4KiWvGj.js",
+    "name": "virtual",
+    "imports": [
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js"
+    ]
+  },
+  "_windpress-a09-ZfRP.min.js": {
+    "file": "windpress-a09-ZfRP.min.js",
+    "name": "windpress"
+  },
+  "_xmark-K-HL8reD.min.js": {
+    "file": "xmark-K-HL8reD.min.js",
+    "name": "xmark",
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js"
+    ]
+  },
+  "assets/apps/dashboard/main.js": {
+    "file": "assets/dashboard-CH0T7-Rh.js",
+    "name": "dashboard",
+    "src": "assets/apps/dashboard/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_xmark-K-HL8reD.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_module-D_6o7GTg.js",
+      "_index.browser-CJrp5d7n.min.js",
+      "__initCloneObject-Cw8oFim1.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_build-Bp4LfGl5.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_build-BhUYuKC2.js",
+      "_index-BJHYLQGk.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_index-MUO2ju4c.min.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_didyoumean-DsuBqNMC.min.js"
+    ],
+    "dynamicImports": [
+      "assets/apps/dashboard/monaco-editor.js"
+    ],
+    "css": [
+      "assets/dashboard-Y0T85hAy.css"
+    ]
+  },
+  "assets/apps/dashboard/monaco-editor.js": {
+    "file": "monaco-editor-CVD14u1l.js",
+    "name": "monaco-editor",
+    "src": "assets/apps/dashboard/monaco-editor.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/apps/dashboard/main.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_xmark-K-HL8reD.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_module-D_6o7GTg.js",
+      "_index.browser-CJrp5d7n.min.js",
+      "__initCloneObject-Cw8oFim1.min.js",
+      "_build-Bp4LfGl5.js",
+      "_index-CKpsDP-T.min.js",
+      "_index-MUO2ju4c.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_build-BhUYuKC2.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_didyoumean-DsuBqNMC.min.js",
+      "_intellisense-D4O0Eoz-.js"
+    ]
+  },
+  "assets/integration/breakdance/constant.js": {
+    "file": "constant-BZV3uY6b.js",
+    "name": "constant",
+    "src": "assets/integration/breakdance/constant.js",
+    "isDynamicEntry": true
+  },
+  "assets/integration/breakdance/main.js": {
+    "file": "assets/integration/breakdance-z-YEexL-.js",
+    "name": "integration/breakdance",
+    "src": "assets/integration/breakdance/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js"
+    ],
+    "dynamicImports": [
+      "assets/integration/breakdance/constant.js",
+      "assets/integration/breakdance/modules/plain-classses/main.js",
+      "assets/integration/breakdance/modules/generate-cache/main.js",
+      "assets/integration/breakdance/modules/variable-picker/main.js",
+      "assets/integration/breakdance/modules/settings/main.js"
+    ]
+  },
+  "assets/integration/breakdance/modules/generate-cache/main.js": {
+    "file": "main-CBZ3qYYL.js",
+    "name": "main",
+    "src": "assets/integration/breakdance/modules/generate-cache/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js"
+    ]
+  },
+  "assets/integration/breakdance/modules/plain-classses/main.js": {
+    "file": "main-Cnh1BPHA.js",
+    "name": "main",
+    "src": "assets/integration/breakdance/modules/plain-classses/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js",
+      "_highlight-in-textarea-CLY2VO3M.js",
+      "assets/integration/breakdance/constant.js",
+      "_debounce-ymZcD929.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs"
+    ],
+    "css": [
+      "assets/main-DcNsKP8H.css"
+    ]
+  },
+  "assets/integration/breakdance/modules/settings/main.js": {
+    "file": "main-CBKjX45X.js",
+    "name": "main",
+    "src": "assets/integration/breakdance/modules/settings/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_virtual-D4KiWvGj.js",
+      "_logger-BTW-zIW3.js",
+      "_windpress-a09-ZfRP.min.js",
+      "assets/integration/breakdance/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_set-B6rMqs6z.min.js"
+    ]
+  },
+  "assets/integration/breakdance/modules/variable-picker/main.js": {
+    "file": "main-CRZHT_ne.js",
+    "name": "main",
+    "src": "assets/integration/breakdance/modules/variable-picker/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_logger-BTW-zIW3.js",
+      "_xmark-K-HL8reD.min.js",
+      "assets/integration/breakdance/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_chevron-right-NRNjl7DH.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "css": [
+      "assets/main-B706NL2-.css"
+    ]
+  },
+  "assets/integration/bricks/constant.js": {
+    "file": "constant-C-1OIyW7.js",
+    "name": "constant",
+    "src": "assets/integration/bricks/constant.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ]
+  },
+  "assets/integration/bricks/main.js": {
+    "file": "assets/integration/bricks-Ctf2NWhG.js",
+    "name": "integration/bricks",
+    "src": "assets/integration/bricks/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js"
+    ],
+    "dynamicImports": [
+      "assets/integration/bricks/constant.js",
+      "assets/integration/bricks/modules/settings/main.js",
+      "assets/integration/bricks/modules/plain-classses/main.js",
+      "assets/integration/bricks/modules/html2bricks/main.js",
+      "assets/integration/bricks/modules/generate-cache/main.js",
+      "assets/integration/bricks/modules/color-palette/main.js",
+      "assets/integration/bricks/modules/variables/main.js",
+      "assets/integration/bricks/modules/variable-picker/main.js"
+    ]
+  },
+  "assets/integration/bricks/modules/color-palette/main.js": {
+    "file": "main-B9VFMIsG.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/color-palette/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/integration/bricks/constant.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_logger-BTW-zIW3.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ]
+  },
+  "assets/integration/bricks/modules/generate-cache/main.js": {
+    "file": "main-ClKVEhMl.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/generate-cache/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js",
+      "assets/integration/bricks/constant.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ]
+  },
+  "assets/integration/bricks/modules/html2bricks/main.js": {
+    "file": "main-xMr7H3q9.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/html2bricks/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/integration/bricks/constant.js",
+      "_logger-BTW-zIW3.js",
+      "_index.browser-CJrp5d7n.min.js",
+      "__initCloneObject-Cw8oFim1.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js"
+    ]
+  },
+  "assets/integration/bricks/modules/plain-classses/main.js": {
+    "file": "main-B0ObZ1px.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/plain-classses/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js",
+      "_highlight-in-textarea-CLY2VO3M.js",
+      "assets/integration/bricks/constant.js",
+      "_debounce-ymZcD929.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_set-B6rMqs6z.min.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs"
+    ],
+    "css": [
+      "assets/main-D0BLsOxp.css"
+    ]
+  },
+  "assets/integration/bricks/modules/settings/main.js": {
+    "file": "main-Bmp1UaW2.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/settings/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_logger-BTW-zIW3.js",
+      "_windpress-a09-ZfRP.min.js",
+      "assets/integration/bricks/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_set-B6rMqs6z.min.js"
+    ],
+    "css": [
+      "assets/main-aIpuFzMO.css"
+    ]
+  },
+  "assets/integration/bricks/modules/variable-picker/main.js": {
+    "file": "main-DTgUUFNi.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/variable-picker/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_logger-BTW-zIW3.js",
+      "_xmark-K-HL8reD.min.js",
+      "assets/integration/bricks/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_chevron-right-NRNjl7DH.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "css": [
+      "assets/main-KxDhxHIW.css"
+    ]
+  },
+  "assets/integration/bricks/modules/variables/main.js": {
+    "file": "main-DnjlRTPG.js",
+    "name": "main",
+    "src": "assets/integration/bricks/modules/variables/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "assets/integration/bricks/constant.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_logger-BTW-zIW3.js",
+      "_index.browser-CJrp5d7n.min.js",
+      "_virtual-D4KiWvGj.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ]
+  },
+  "assets/integration/builderius/constant.js": {
+    "file": "constant-V9Qf7smn.js",
+    "name": "constant",
+    "src": "assets/integration/builderius/constant.js",
+    "isDynamicEntry": true
+  },
+  "assets/integration/builderius/main.js": {
+    "file": "assets/integration/builderius-SJ5HA5R6.js",
+    "name": "integration/builderius",
+    "src": "assets/integration/builderius/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js"
+    ],
+    "dynamicImports": [
+      "assets/integration/builderius/constant.js",
+      "assets/integration/builderius/modules/settings/main.js",
+      "assets/integration/builderius/modules/generate-cache/main.js",
+      "assets/integration/builderius/modules/monaco/main.js",
+      "assets/integration/builderius/modules/variable-picker/main.js"
+    ]
+  },
+  "assets/integration/builderius/modules/generate-cache/main.js": {
+    "file": "main-BhagxTY4.js",
+    "name": "main",
+    "src": "assets/integration/builderius/modules/generate-cache/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js"
+    ]
+  },
+  "assets/integration/builderius/modules/monaco/main.js": {
+    "file": "main-1q4DuRKD.js",
+    "name": "main",
+    "src": "assets/integration/builderius/modules/monaco/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js",
+      "assets/integration/builderius/constant.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js"
+    ]
+  },
+  "assets/integration/builderius/modules/settings/main.js": {
+    "file": "main-DNLPoBVF.js",
+    "name": "main",
+    "src": "assets/integration/builderius/modules/settings/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_virtual-D4KiWvGj.js",
+      "_logger-BTW-zIW3.js",
+      "_windpress-a09-ZfRP.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ],
+    "css": [
+      "assets/main-DZMuAtAW.css"
+    ]
+  },
+  "assets/integration/builderius/modules/variable-picker/main.js": {
+    "file": "main-CQiyejFA.js",
+    "name": "main",
+    "src": "assets/integration/builderius/modules/variable-picker/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_logger-BTW-zIW3.js",
+      "_xmark-K-HL8reD.min.js",
+      "assets/integration/builderius/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_chevron-right-NRNjl7DH.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "css": [
+      "assets/main-CiwbRZi6.css"
+    ]
+  },
+  "assets/integration/gutenberg/block-editor.jsx": {
+    "file": "assets/integration/gutenberg/block-editor-Dn93R4p0.js",
+    "name": "integration/gutenberg/block-editor",
+    "src": "assets/integration/gutenberg/block-editor.jsx",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_highlight-in-textarea-CLY2VO3M.js",
+      "_debounce-ymZcD929.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs"
+    ],
+    "css": [
+      "assets/block-editor-BDtZCDpy.css"
+    ]
+  },
+  "assets/integration/gutenberg/post-editor.js": {
+    "file": "assets/integration/gutenberg/post-editor-BOti_Ykh.js",
+    "name": "integration/gutenberg/post-editor",
+    "src": "assets/integration/gutenberg/post-editor.js",
+    "isEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js"
+    ]
+  },
+  "assets/integration/gutenberg/site-editor.js": {
+    "file": "assets/integration/gutenberg/site-editor-0CgILOlM.js",
+    "name": "integration/gutenberg/site-editor",
+    "src": "assets/integration/gutenberg/site-editor.js",
+    "isEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js",
+      "_debounce-ymZcD929.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/integration/livecanvas/main.js": {
+    "file": "assets/integration/livecanvas-D2EBJg8a.js",
+    "name": "integration/livecanvas",
+    "src": "assets/integration/livecanvas/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js"
+    ],
+    "dynamicImports": [
+      "assets/integration/livecanvas/modules/generate-cache/main.js"
+    ]
+  },
+  "assets/integration/livecanvas/modules/generate-cache/main.js": {
+    "file": "main-DRrsuG8v.js",
+    "name": "main",
+    "src": "assets/integration/livecanvas/modules/generate-cache/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js"
+    ]
+  },
+  "assets/integration/oxygen/editor/constant.js": {
+    "file": "constant-DFowkQsk.js",
+    "name": "constant",
+    "src": "assets/integration/oxygen/editor/constant.js",
+    "isDynamicEntry": true
+  },
+  "assets/integration/oxygen/editor/main.js": {
+    "file": "assets/integration/oxygen/editor-0KuqjVuY.js",
+    "name": "integration/oxygen/editor",
+    "src": "assets/integration/oxygen/editor/main.js",
+    "isEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js"
+    ],
+    "dynamicImports": [
+      "assets/integration/oxygen/editor/constant.js",
+      "assets/integration/oxygen/editor/modules/settings/main.js",
+      "assets/integration/oxygen/editor/modules/plain-classses/main.js",
+      "assets/integration/oxygen/editor/modules/generate-cache/main.js",
+      "assets/integration/oxygen/editor/modules/variable-picker/main.js"
+    ]
+  },
+  "assets/integration/oxygen/editor/modules/generate-cache/main.js": {
+    "file": "main-GZc839MK.js",
+    "name": "main",
+    "src": "assets/integration/oxygen/editor/modules/generate-cache/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_logger-BTW-zIW3.js",
+      "assets/integration/oxygen/editor/constant.js"
+    ]
+  },
+  "assets/integration/oxygen/editor/modules/plain-classses/main.js": {
+    "file": "main-6XH8jmOz.js",
+    "name": "main",
+    "src": "assets/integration/oxygen/editor/modules/plain-classses/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js",
+      "_logger-BTW-zIW3.js",
+      "_highlight-in-textarea-CLY2VO3M.js",
+      "assets/integration/oxygen/editor/constant.js",
+      "_debounce-ymZcD929.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs",
+      "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs"
+    ],
+    "css": [
+      "assets/main-COFjq5_d.css"
+    ]
+  },
+  "assets/integration/oxygen/editor/modules/settings/main.js": {
+    "file": "main-B8qWIT7P.js",
+    "name": "main",
+    "src": "assets/integration/oxygen/editor/modules/settings/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_virtual-D4KiWvGj.js",
+      "_logger-BTW-zIW3.js",
+      "_windpress-a09-ZfRP.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_isObject-CRxghtyK.min.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_set-B6rMqs6z.min.js"
+    ],
+    "css": [
+      "assets/main-DLGskBce.css"
+    ]
+  },
+  "assets/integration/oxygen/editor/modules/variable-picker/main.js": {
+    "file": "main-joLGd0_S.js",
+    "name": "main",
+    "src": "assets/integration/oxygen/editor/modules/variable-picker/main.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__plugin-vue_export-helper-C8Ev41l5.min.js",
+      "_logger-BTW-zIW3.js",
+      "_xmark-K-HL8reD.min.js",
+      "assets/integration/oxygen/editor/constant.js",
+      "_runtime-core.esm-bundler-BgTOpYpR.min.js",
+      "_module-D_6o7GTg.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_oxide_parser_wasm-2P4Lcsn7.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_chevron-right-NRNjl7DH.min.js",
+      "_index-BJHYLQGk.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ],
+    "css": [
+      "assets/main-CxXmj10J.css"
+    ]
+  },
+  "assets/integration/oxygen/iframe/main.js": {
+    "file": "assets/integration/oxygen/iframe-BvuEPxur.js",
+    "name": "integration/oxygen/iframe",
+    "src": "assets/integration/oxygen/iframe/main.js",
+    "isEntry": true
+  },
+  "assets/packages/core/tailwindcss-v3/play/autocomplete.js": {
+    "file": "assets/packages/core/tailwindcss-v3/play/autocomplete-BdhtFBm2.js",
+    "name": "packages/core/tailwindcss-v3/play/autocomplete",
+    "src": "assets/packages/core/tailwindcss-v3/play/autocomplete.js",
+    "isEntry": true,
+    "imports": [
+      "_fuse-CU2r43ac.min.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_module-D_6o7GTg.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_setupContextUtils-DUps9YUQ.min.js",
+      "_set-B6rMqs6z.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v3/play/classname-to-css.js": {
+    "file": "assets/packages/core/tailwindcss-v3/play/classname-to-css-DHps7Tia.js",
+    "name": "packages/core/tailwindcss-v3/play/classname-to-css",
+    "src": "assets/packages/core/tailwindcss-v3/play/classname-to-css.js",
+    "isEntry": true,
+    "imports": [
+      "_module-D_6o7GTg.js",
+      "_didyoumean-DsuBqNMC.min.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_setupContextUtils-DUps9YUQ.min.js",
+      "_generateRules-tbJnU7hT.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_set-B6rMqs6z.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v3/play/observer.js": {
+    "file": "assets/packages/core/tailwindcss-v3/play/observer-KxWU_Ma2.js",
+    "name": "packages/core/tailwindcss-v3/play/observer",
+    "src": "assets/packages/core/tailwindcss-v3/play/observer.js",
+    "isEntry": true,
+    "imports": [
+      "_module-D_6o7GTg.js",
+      "_build-BhUYuKC2.js",
+      "_resolve-config-xoBbP6QF.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-MUO2ju4c.min.js",
+      "_didyoumean-DsuBqNMC.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v3/play/sort.js": {
+    "file": "assets/packages/core/tailwindcss-v3/play/sort-BVKkdSkU.js",
+    "name": "packages/core/tailwindcss-v3/play/sort",
+    "src": "assets/packages/core/tailwindcss-v3/play/sort.js",
+    "isEntry": true,
+    "imports": [
+      "_resolve-config-xoBbP6QF.js",
+      "_setupContextUtils-DUps9YUQ.min.js",
+      "_generateRules-tbJnU7hT.min.js",
+      "_module-D_6o7GTg.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_set-B6rMqs6z.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v4/play/autocomplete.js": {
+    "file": "assets/packages/core/tailwindcss-v4/play/autocomplete-B99XY6sZ.js",
+    "name": "packages/core/tailwindcss-v4/play/autocomplete",
+    "src": "assets/packages/core/tailwindcss-v4/play/autocomplete.js",
+    "isEntry": true,
+    "imports": [
+      "_fuse-CU2r43ac.min.js",
+      "_intellisense-D4O0Eoz-.js",
+      "_module-D_6o7GTg.js",
+      "_set-B6rMqs6z.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v4/play/classname-to-css.js": {
+    "file": "assets/packages/core/tailwindcss-v4/play/classname-to-css--A2JMcdc.js",
+    "name": "packages/core/tailwindcss-v4/play/classname-to-css",
+    "src": "assets/packages/core/tailwindcss-v4/play/classname-to-css.js",
+    "isEntry": true,
+    "imports": [
+      "_intellisense-D4O0Eoz-.js",
+      "_module-D_6o7GTg.js",
+      "_set-B6rMqs6z.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v4/play/observer.js": {
+    "file": "assets/packages/core/tailwindcss-v4/play/observer-CObre3Jy.js",
+    "name": "packages/core/tailwindcss-v4/play/observer",
+    "src": "assets/packages/core/tailwindcss-v4/play/observer.js",
+    "isEntry": true,
+    "imports": [
+      "_module-D_6o7GTg.js",
+      "_build-Bp4LfGl5.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_index-MUO2ju4c.min.js"
+    ]
+  },
+  "assets/packages/core/tailwindcss-v4/play/sort.js": {
+    "file": "assets/packages/core/tailwindcss-v4/play/sort-HVEogfju.js",
+    "name": "packages/core/tailwindcss-v4/play/sort",
+    "src": "assets/packages/core/tailwindcss-v4/play/sort.js",
+    "isEntry": true,
+    "imports": [
+      "_intellisense-D4O0Eoz-.js",
+      "_module-D_6o7GTg.js",
+      "_set-B6rMqs6z.min.js",
+      "_index-CKpsDP-T.min.js",
+      "_monaco-editor-00CT0F_7.min.js",
+      "_isObject-CRxghtyK.min.js"
+    ]
+  },
+  "node_modules/.pnpm/@windpress+oxide-parser-wasm@1.0.7/node_modules/@windpress/oxide-parser-wasm/oxide_parser_wasm_bg.wasm": {
+    "file": "assets/oxide_parser_wasm_bg-C5ZsR71t.wasm",
+    "src": "node_modules/.pnpm/@windpress+oxide-parser-wasm@1.0.7/node_modules/@windpress/oxide-parser-wasm/oxide_parser_wasm_bg.wasm"
+  },
+  "node_modules/.pnpm/lightningcss-wasm@1.27.0/node_modules/lightningcss-wasm/lightningcss_node.wasm": {
+    "file": "assets/lightningcss_node-DuhDuG6P.wasm",
+    "src": "node_modules/.pnpm/lightningcss-wasm@1.27.0/node_modules/lightningcss-wasm/lightningcss_node.wasm"
+  },
+  "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/base/browser/ui/codicons/codicon/codicon.ttf": {
+    "file": "assets/codicon-DCmgc-ay.ttf",
+    "src": "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/base/browser/ui/codicons/codicon/codicon.ttf"
+  },
+  "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/css/css.js": {
+    "file": "css-fOVBx6Gk.min.js",
+    "name": "css",
+    "src": "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/css/css.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.js": {
+    "file": "javascript-DQO-yeU_.min.js",
+    "name": "javascript",
+    "src": "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/basic-languages/javascript/javascript.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ]
+  },
+  "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/css/cssMode.js": {
+    "file": "cssMode-BQstf_DT.min.js",
+    "name": "cssMode",
+    "src": "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/css/cssMode.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ]
+  },
+  "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/typescript/tsMode.js": {
+    "file": "tsMode-cH79fxRB.min.js",
+    "name": "tsMode",
+    "src": "node_modules/.pnpm/monaco-editor@0.52.0/node_modules/monaco-editor/esm/vs/language/typescript/tsMode.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_monaco-editor-00CT0F_7.min.js"
+    ]
+  },
+  "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs": {
+    "file": "css-g_GSZ1hr.min.js",
+    "name": "css",
+    "src": "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/langs/css.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs": {
+    "file": "dark-plus-B74Y8nHz.min.js",
+    "name": "dark-plus",
+    "src": "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/dark-plus.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs": {
+    "file": "light-plus-w1el_4yc.min.js",
+    "name": "light-plus",
+    "src": "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/themes/light-plus.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs": {
+    "file": "wasm-CG6Dc4jp.min.js",
+    "name": "wasm",
+    "src": "node_modules/.pnpm/shiki@1.22.1/node_modules/shiki/dist/wasm.mjs",
+    "isDynamicEntry": true
+  }
+}

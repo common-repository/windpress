@@ -1,0 +1,1 @@
+const a=document.querySelector("#app"),t=a.__vue__,e=document.querySelector("#app #iframe"),r=e==null?void 0:e.contentDocument.querySelector("#breakdance_canvas"),n=r.__vue__;export{a as bde,e as bdeIframe,r as bdeIframeCanvas,n as bdeIframeV,t as bdeV};
